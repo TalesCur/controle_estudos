@@ -1,9 +1,1 @@
-Git:
-- conceitos básicos
-- commit
-- branch
-GitHub:
-- repositórios
-- pull request
-VS Code:
-- controle de versão
+1.Git: erro proposital de digitação
