@@ -7,3 +7,6 @@ GitHub:
 - pull request
 VS Code:
 - controle de versão
+
+
+e aí meu amigão , tudo bem ?
