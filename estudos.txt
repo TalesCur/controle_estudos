@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 1.Git: erro proposital de digitação
+=======
+Git:
+- conceitos básicos
+- commit
+- branch
+GitHub:
+- repositórios
+- pull request
+VS Code:
+- controle de versão
+
+
+e aí meu amigão , tudo bem ?
+
+não vlw. ele esteve aqui...
+>>>>>>> fe8cfdce6675730824f4823d68b3389b841399a4
