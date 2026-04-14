@@ -16,3 +16,7 @@ while True:
     print(msg)
     time.sleep(2)
     os.system("cls" if os.name == "nt" else "clear")
+
+
+
+neymar joga muita bola
