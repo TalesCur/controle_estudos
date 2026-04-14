@@ -1,11 +1,22 @@
-BOMDIA
+import time
+import random
+import os
 
-fjjscbbcakjbcdkjbcsdjhbcdsjjfbfjjscjk
+mensagens = [
+    "Você foi hackeado 👀",
+    "Brincadeira 😄",
+    "Seu PC agora é meu!",
+    "Só que não 😂",
+    "Cuidado... estou te observando 👁️",
+    "Mentira, relaxa 👍"
+]
 
-da ideia viado
-tropa do mantemkkkkkkkkkkkkkk
-KKKK
-alteriei
-adentrei
-empurrei
-torei
+while True:
+    msg = random.choice(mensagens)
+    print(msg)
+    time.sleep(2)
+    os.system("cls" if os.name == "nt" else "clear")
+
+
+
+neymar joga muita bola
